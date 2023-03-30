@@ -1,4 +1,4 @@
 host = "localhost"
-user = "root"
-password = "7895226"
+user = "your_user"
+password = "your_password"
 db_name = "m_a"
